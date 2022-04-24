@@ -7,4 +7,4 @@ This part is an adapter from the STDC14 of the STLINK_V3MINI to
 
 # License
 
-All hardware designs are licensed under the CERN Open Hardware License v1.2. However, this does not apply to the submodules used in this repository.
+The design is licensed under the [CERN Open Hardware Licence Version 2 - Permissive](cern-ohl_p_v2.txt).
