@@ -9,3 +9,6 @@ _autosave-*
 # ignore kicad bom files and associated files:
 debug_adapter_stlink_v3.csv
 debug_adapter_stlink_v3.xml
+
+
+exports/
